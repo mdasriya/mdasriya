@@ -22,6 +22,15 @@
   </div>
    <img src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" alt="" />
 
+ <div>
+    <ul>
+      <li>🔭 I’m currently working on Frontend & Backend </li>
+      <li>🌱 I’m currently learning MERN stack</li>
+      <li> I’m looking to collaborate on <a href="https://www.linkedin.com/in/mukesh-dasriya-9a20a620a/">LinkedIn</a>  & <a href="https://github.com/mdasriya">Github</a>  </li>
+      <li>⚡  Have a look at my <a href="https://mukeshdasriya-myportfolio.netlify.app/">Portfolio</a> </li>
+    </ul>
+      </div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukesh-dasriya-9a20a620a/) 
 
