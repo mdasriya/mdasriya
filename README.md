@@ -4,7 +4,7 @@
 <div display="flex">
 <h3 align="center">A passionate frontend developer from India</h3> <img width="30%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" alt="" /> 
   </div>
-  <ul>
+  <ul >
   <li>I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.</li>
 <li>I am skilled in HTML, CSS, Javascript, ReactJS, Redux, React Router, NodeJS. I am good in data structure and algorithms.</li>
 <li>I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</li>
@@ -24,10 +24,10 @@
 
  <div>
     <ul>
-      <li>🔭 I’m currently working on Frontend & Backend </li>
-      <li>🌱 I’m currently learning MERN stack</li>
-      <li> I’m looking to collaborate on <a href="https://www.linkedin.com/in/mukesh-dasriya-9a20a620a/">LinkedIn</a>  & <a href="https://github.com/mdasriya">Github</a>  </li>
-      <li>⚡  Have a look at my <a href="https://mukeshdasriya-myportfolio.netlify.app/">Portfolio</a> </li>
+      <li align="center">🔭 I’m currently working on Frontend & Backend </li>
+      <li align="center">🌱 I’m currently learning MERN stack</li>
+      <li align="center"> I’m looking to collaborate on <a href="https://www.linkedin.com/in/mukesh-dasriya-9a20a620a/">LinkedIn</a>  & <a href="https://github.com/mdasriya">Github</a>  </li>
+      <li align="center">⚡  Have a look at my <a href="https://mukeshdasriya-myportfolio.netlify.app/">Portfolio</a> </li>
     </ul>
       </div>
 
