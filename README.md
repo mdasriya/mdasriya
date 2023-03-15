@@ -1,7 +1,9 @@
 <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="" />
 
 <h1 align="center">Hi 👋, I'm Mukesh Dasriya</h1>
+<div display="flex">
 <h3 align="center">A passionate frontend developer from India</h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" alt="" /> 
+  </div>
 
 
 ## 🌐 Socials:
