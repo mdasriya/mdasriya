@@ -27,7 +27,7 @@
       <li align="center">🔭 I’m currently working on Frontend & Backend </li>
       <li align="center">🌱 I’m currently learning MERN stack</li>
       <li align="center"> I’m looking to collaborate on <a href="https://www.linkedin.com/in/mukesh-dasriya-9a20a620a/">LinkedIn</a>  & <a href="https://github.com/mdasriya">Github</a>  </li>
-      <li align="center">⚡  Have a look at my <a href="https://mukeshdasriya-myportfolio.netlify.app/">Portfolio</a> </li>
+      <li align="center">⚡  Have a look at my <a href="https://mdasriya.github.io/">Portfolio</a> </li>
     </ul>
       </div>
 
