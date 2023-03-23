@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mukesh Dasriya</h1>
 <div display="flex">
-<h3 align="center">A passionate frontend developer from India</h3> <img width="30%" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" alt="" /> 
+<h3 align="center">A passionate frontend developer from India</h3> 
   </div>
   <ul >
   <li>I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.</li>
